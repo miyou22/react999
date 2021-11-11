@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/miyou22/react999/static/css/main.c4acecb2.chunk.css",
+    "main.js": "/miyou22/react999/static/js/main.7d2a94cb.chunk.js",
+    "main.js.map": "/miyou22/react999/static/js/main.7d2a94cb.chunk.js.map",
+    "runtime-main.js": "/miyou22/react999/static/js/runtime-main.8107aa9e.js",
+    "runtime-main.js.map": "/miyou22/react999/static/js/runtime-main.8107aa9e.js.map",
+    "static/js/2.1a535820.chunk.js": "/miyou22/react999/static/js/2.1a535820.chunk.js",
+    "static/js/2.1a535820.chunk.js.map": "/miyou22/react999/static/js/2.1a535820.chunk.js.map",
+    "index.html": "/miyou22/react999/index.html",
+    "static/css/main.c4acecb2.chunk.css.map": "/miyou22/react999/static/css/main.c4acecb2.chunk.css.map",
+    "static/js/2.1a535820.chunk.js.LICENSE.txt": "/miyou22/react999/static/js/2.1a535820.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8107aa9e.js",
+    "static/js/2.1a535820.chunk.js",
+    "static/css/main.c4acecb2.chunk.css",
+    "static/js/main.7d2a94cb.chunk.js"
+  ]
+}
